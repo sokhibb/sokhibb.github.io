@@ -1,0 +1,26 @@
+body
+{
+    background-color: #595547;
+    color: #fff;
+    font-family: sans-serif;
+}
+
+img
+{
+    height: 200px;
+    width: 300px;
+}
+a
+{
+    text-decoration: none;
+    color: red;
+}
+
+h2, h1
+{
+    color: #9FC2F8;
+}
+b
+{
+    color: #F6F36B;
+}
